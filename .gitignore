@@ -1,0 +1,2 @@
+./autogen-venv
+./**/*__pycache__
