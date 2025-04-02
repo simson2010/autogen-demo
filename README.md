@@ -85,3 +85,19 @@ python main.py
 
 
 ## 项目结构 
+
+autogen-demo/
+├── README.md
+├── main.py
+├── demo/
+│   ├── get_weather_page.py
+│   └── openai-gen-image.py
+├── src/
+│   ├── LLM_Client.py
+│   ├── tools/
+│   │   ├── weather_tool.py
+│   │   ├── email_tool.py
+│   │   └── address_mapping.py
+│   └── mapping/
+│       └── location_mapping.json
+└── requirements.txt
