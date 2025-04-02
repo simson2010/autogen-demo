@@ -86,6 +86,7 @@ python main.py
 
 ## 项目结构 
 
+```plaintext
 autogen-demo/
 ├── README.md
 ├── main.py
@@ -101,3 +102,4 @@ autogen-demo/
 │   └── mapping/
 │       └── location_mapping.json
 └── requirements.txt
+```
